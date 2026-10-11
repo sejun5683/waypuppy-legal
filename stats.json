@@ -1,6 +1,14 @@
 {
-  "totalDonatedKg": 0,
-  "totalDonationCount": 0,
-  "lastDonationDate": null,
-  "message": "첫 기부를 준비하고 있어요"
+  "totalDonatedKg": 30,
+  "totalDonationCount": 1,
+  "lastDonationDate": "2026-10-11",
+  "message": "보호소에 전달한 사료를 기록으로 공개해요",
+  "donations": [
+    {
+      "date": "2026-10-11",
+      "item": "사료 30kg",
+      "shelter": "콩할매유기견센터",
+      "note": "기부 1차"
+    }
+  ]
 }
