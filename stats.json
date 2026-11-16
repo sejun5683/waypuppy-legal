@@ -1,9 +1,15 @@
 {
-  "totalDonatedKg": 30,
-  "totalDonationCount": 1,
-  "lastDonationDate": "2026-10-11",
+  "totalDonatedKg": 41,
+  "totalDonationCount": 2,
+  "lastDonationDate": "2026-11-15",
   "message": "보호소에 전달한 사료를 기록으로 공개해요",
   "donations": [
+    {
+      "date": "2026-11-15",
+      "item": "사료 11kg",
+      "shelter": "일산 유기견 보호소",
+      "note": "기부 2차"
+    },
     {
       "date": "2026-10-11",
       "item": "사료 30kg",
